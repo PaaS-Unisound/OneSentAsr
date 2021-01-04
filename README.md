@@ -1,1 +1,1 @@
-# OneSentAsr
+# 口语评测示例demo
